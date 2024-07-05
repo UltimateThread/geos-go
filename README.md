@@ -9,3 +9,9 @@ the algorithms used by [PostGIS](http://www.postgis.net/), the
 [sf](https://github.com/r-spatial/sf) package for R, and others.
 
 The official Git repository is at [GitHub](https://github.com/UltimateThread/geos-go).
+
+| CI    | Status |
+| :---: | :----- |
+| GitHub | ![github](https://github.com/UltimateThread/geos-go/actions/workflows/build.yml/badge.svg) | 
+
+Disclaimer: This library is under development and NOT actively maintained. Use at your own risk!
